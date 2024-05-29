@@ -16,7 +16,8 @@ class PostDetailViewController: UIViewController {
         super.viewDidLoad()
         
         if let post = post {
-            titleLabel.text = post.title
+            self.title = post.title
+            titleLabel.text = post.body
             // Configure other UI elements with post details
         }
     }

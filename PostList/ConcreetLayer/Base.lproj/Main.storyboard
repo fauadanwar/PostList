@@ -60,7 +60,7 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="hSj-GJ-E1u" secondAttribute="trailing" id="tSk-fq-yxJ"/>
                         </constraints>
                     </view>
-                    <navigationItem key="navigationItem" id="Evk-nB-RaA"/>
+                    <navigationItem key="navigationItem" title="Posts" id="Evk-nB-RaA"/>
                     <connections>
                         <outlet property="tableView" destination="hSj-GJ-E1u" id="Efq-mA-6dm"/>
                         <segue destination="fxc-09-yWK" kind="show" identifier="PostDetailViewControllerSegue" id="BtC-mD-tRW"/>

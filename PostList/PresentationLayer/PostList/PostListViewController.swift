@@ -15,6 +15,7 @@ class PostListViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        self.title = "Posts"
         bindViewModel()
         viewModel.fetchModels()
     }

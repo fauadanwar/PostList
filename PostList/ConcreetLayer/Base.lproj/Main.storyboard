@@ -100,7 +100,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="4Ng-Hy-Asz" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2017.5572519083969" y="20.422535211267608"/>
+            <point key="canvasLocation" x="2002" y="4"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="uPD-7s-mpH">

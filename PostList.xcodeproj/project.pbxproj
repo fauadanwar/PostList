@@ -116,7 +116,6 @@
 			isa = PBXGroup;
 			children = (
 				A0B6FE4B2C0750CD00BC4F06 /* Info.plist */,
-				A0B6FE732C07518E00BC4F06 /* FrameworkLayer */,
 				A0B6FE722C07515F00BC4F06 /* ConcreetLayer */,
 				A0B6FE712C07515700BC4F06 /* PresentationLayer */,
 				A0B6FE702C07514B00BC4F06 /* BuisnessLayer */,
@@ -180,13 +179,6 @@
 				A0B6FE482C0750CD00BC4F06 /* LaunchScreen.storyboard */,
 			);
 			path = ConcreetLayer;
-			sourceTree = "<group>";
-		};
-		A0B6FE732C07518E00BC4F06 /* FrameworkLayer */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = FrameworkLayer;
 			sourceTree = "<group>";
 		};
 		A0B6FE742C0751B500BC4F06 /* NetworkServies */ = {
